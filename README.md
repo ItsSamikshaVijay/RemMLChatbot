@@ -1,5 +1,8 @@
 # Chatbot ML model of Rem from RE:Zero !
 
+![image](https://github.com/ItsSamikshaVijay/RemMLChatbot/assets/135284414/7442e462-2093-4bbf-bd89-f06b0a48df33)
+
+
 I made this project out of pure curiosity and interest in training my first machine-learning model. This model can essentially be integrated into chatbots. 
 
 # This is an image of the iterations of training the Model went through
